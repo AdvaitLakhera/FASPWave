@@ -1,0 +1,9 @@
+voila
+ipywidgets
+numpy
+scipy
+sounddevice
+soundfile
+reedsolo
+numba
+zlib  # technically part of stdlib, but harmless here
