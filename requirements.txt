@@ -1,8 +1,0 @@
-voila
-ipywidgets
-numpy
-scipy
-sounddevice
-soundfile
-reedsolo
-numba
